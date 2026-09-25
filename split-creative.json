@@ -1,0 +1,45 @@
+[
+ {
+  "name": "creative-3-wir-suchen",
+  "logo": "logo-hd.png",
+  "foto": "img/foto-hd-team-bagger.jpg",
+  "primary": "#279D2F",
+  "panel": "top",
+  "panel_hoehe": 0.54,
+  "panel_bg": "#279D2F",
+  "kicker": "WIR SUCHEN IN ESSEN & UMGEBUNG",
+  "headline": [
+   "Facharbeiter",
+   "GaLaBau (m/w/d)"
+  ],
+  "subline": "Unbefristet, in Vollzeit – mit modernem Maschinenpark.",
+  "cta": "Job-Angebot in 60 Sekunden erhalten",
+  "fokus": [
+   0.5,
+   0.55
+  ]
+ },
+ {
+  "name": "creative-4-checkliste",
+  "logo": "logo-hd.png",
+  "foto": "img/foto-hd-betonfertigteile.jpg",
+  "primary": "#279D2F",
+  "panel": "bottom",
+  "panel_hoehe": 0.58,
+  "panel_bg": "#FFFFFF",
+  "kicker": "WIR SUCHEN IN ESSEN & UMGEBUNG",
+  "headline": [
+   "Facharbeiter GaLaBau (m/w/d)"
+  ],
+  "checkliste": [
+   "Unbefristeter Arbeitsvertrag",
+   "Moderner Maschinenpark",
+   "Jobrad-Leasing"
+  ],
+  "cta": "Job-Angebot in 60 Sekunden erhalten",
+  "fokus": [
+   0.5,
+   0.3
+  ]
+ }
+]

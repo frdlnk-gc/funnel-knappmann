@@ -1,0 +1,21 @@
+{
+ "name": "creative-1-karten-hook",
+ "logo": "logo-hd.png",
+ "foto": "img/foto-hd-firmenwagen.jpg",
+ "fokus": [
+  0.62,
+  0.4
+ ],
+ "karte": "img/karte.jpg",
+ "primary": "#279D2F",
+ "headline": [
+  "FACHARBEITER",
+  "GALABAU"
+ ],
+ "headline_zusatz": "(m/w/d)",
+ "pill": [
+  "Ohne Lebenslauf &",
+  "Anschreiben!"
+ ],
+ "ort": "Essen · Gelsenkirchen · Oberhausen & Umgebung"
+}

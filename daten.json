@@ -120,14 +120,14 @@
   },
   "hero_bild": "img/hero.jpg",
   "bilder": [
-    "img/f1-pflasterbau.jpg",
     "img/f4-team.jpg",
     "img/f2-minibagger.jpg",
-    "img/f3-entwaesserung.jpg",
     "img/f5-betonfertigteile.jpg",
-    "img/f6-firmenwagen.jpg",
-    "img/f7-pflasterflaeche.jpg",
     "img/f8-vermessung.jpg",
-    "img/f9-begruenung.jpg"
+    "img/f6-firmenwagen.jpg",
+    "img/f10-pause.jpg",
+    "img/f11-team-warnkleidung.jpg",
+    "img/f9-begruenung.jpg",
+    "img/f1-pflasterbau.jpg"
   ]
 }

@@ -1,0 +1,36 @@
+{
+ "name": "creative-2-collage",
+ "logo": "logo-hd.png",
+ "fotos": [
+  "img/foto-hd-vermessung.jpg",
+  "img/foto-hd-minibagger.jpg",
+  "img/foto-hd-team-weg.jpg"
+ ],
+ "fokus": [
+  [
+   0.5,
+   0.4
+  ],
+  [
+   0.55,
+   0.5
+  ],
+  [
+   0.5,
+   0.45
+  ]
+ ],
+ "primary": "#279D2F",
+ "ink": "#1B1B1B",
+ "headline": [
+  "Facharbeiter",
+  "GaLaBau"
+ ],
+ "headline_zusatz": "(m/w/d)",
+ "ort": "Essen · Gelsenkirchen · Oberhausen",
+ "cta": [
+  "Jetzt unverbindliches",
+  "Job-Angebot erhalten –",
+  "mit 1 Klick!"
+ ]
+}
