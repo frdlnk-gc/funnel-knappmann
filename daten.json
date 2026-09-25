@@ -1,0 +1,133 @@
+{
+  "firma": "KNAPPMANN",
+  "stelle": "Facharbeiter GaLaBau (m/w/d)",
+  "ort": "Essen",
+  "plz": "45356",
+  "branche": "galabau",
+  "farbe_primary": "#279D2F",
+  "farbe_secondary": "#0057A4",
+  "region_badge": "Essen & Umgebung",
+  "benefit_top": "Unbefristeter Arbeitsvertrag",
+  "benefits": [
+    "Unbefristeter Arbeitsvertrag in Vollzeit",
+    "Moderner Maschinenpark",
+    "Einsatz nach deinen Stärken – im Landschaftsbau oder in der Begrünung",
+    "Interne Karrierechancen – mit klarer Karriereleiter",
+    "Flache Hierarchien & freundliches Arbeitsklima",
+    "Jobrad-Leasing"
+  ],
+  "aufgaben": [
+    "Du übernimmst fachgerechte Erdarbeiten im Landschafts- und Tiefbau sowie Entwässerungs- und Drainagearbeiten",
+    "Du baust Wege und stellst hochwertige Pflasterflächen her",
+    "Du setzt und versetzt Betonfertigteile",
+    "Du führst Pflanz- und Einsaatarbeiten durch und pflegst Rasen- und Gehölzflächen"
+  ],
+  "anforderung": "Du bringst Erfahrung mit Erdarbeiten, Entwässerung und Drainage sowie Wege- und Pflasterbau mit.",
+  "fachrichtungen_frage": "Was ist dein beruflicher Hintergrund?",
+  "fachrichtungen": [
+    {
+      "label": "Garten- & Landschaftsbau",
+      "icon": "🌿",
+      "qualifikationen": [
+        {
+          "label": "Ausgebildeter Landschaftsgärtner",
+          "icon": "🎓"
+        },
+        {
+          "label": "Meister / Techniker",
+          "icon": "🏅"
+        },
+        {
+          "label": "Erfahren ohne Ausbildung",
+          "icon": "💪"
+        }
+      ]
+    },
+    {
+      "label": "Straßen- & Tiefbau",
+      "icon": "🚧",
+      "qualifikationen": [
+        {
+          "label": "Ausbildung im Straßen- oder Tiefbau",
+          "icon": "🎓"
+        },
+        {
+          "label": "Meister / Polier / Techniker",
+          "icon": "🏅"
+        },
+        {
+          "label": "Erfahren ohne Ausbildung",
+          "icon": "💪"
+        }
+      ]
+    },
+    {
+      "label": "Gärtnerei / Begrünung",
+      "icon": "🌱",
+      "qualifikationen": [
+        {
+          "label": "Ausgebildeter Gärtner",
+          "icon": "🎓"
+        },
+        {
+          "label": "Gärtnermeister / Techniker",
+          "icon": "🏅"
+        },
+        {
+          "label": "Erfahren ohne Ausbildung",
+          "icon": "💪"
+        }
+      ]
+    },
+    {
+      "label": "Anderer Bereich",
+      "icon": "🛠️",
+      "qualifikationen": [
+        {
+          "label": "Ausbildung in einem anderen Beruf",
+          "icon": "🎓"
+        },
+        {
+          "label": "Meister / Techniker",
+          "icon": "🏅"
+        },
+        {
+          "label": "Erfahren ohne Ausbildung",
+          "icon": "💪"
+        }
+      ]
+    }
+  ],
+  "ueber": {
+    "fakten": [
+      {
+        "zahl": "190",
+        "label": "Mitarbeitende"
+      },
+      {
+        "zahl": "1960",
+        "label": "gegründet"
+      }
+    ],
+    "text": "KNAPPMANN aus Essen gestaltet seit 1960 Lebensräume – von großen Parkanlagen über anspruchsvolle Tiefbauprojekte bis zu grünen Zukunftsräumen für Städte und Kommunen. Ein Familienunternehmen mit Haltung: bodenständig, verbindlich und auf Augenhöhe – mit 190 Mitarbeitenden in der Unternehmensgruppe."
+  },
+  "kunde_tab": "14 KNAPPMANN",
+  "quelle": "https://knappmann.green-careers.de",
+  "logo": "logo.png",
+  "karte": {
+    "bild": "img/karte.jpg",
+    "label": "Essen"
+  },
+  "hero_bild": "img/hero.jpg",
+  "bilder": [
+    "img/f1-pflasterbau.jpg",
+    "img/f4-team.jpg",
+    "img/f2-minibagger.jpg",
+    "img/f3-entwaesserung.jpg",
+    "img/f5-betonfertigteile.jpg",
+    "img/f6-firmenwagen.jpg",
+    "img/f7-pflasterflaeche.jpg",
+    "img/f8-vermessung.jpg",
+    "img/f9-begruenung.jpg"
+  ]
+}
