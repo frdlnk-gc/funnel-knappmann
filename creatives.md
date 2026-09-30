@@ -48,3 +48,41 @@ Unbefristet, flache Hierarchien, freundliches Arbeitsklima – hol dir jetzt dei
 
 Überschrift: Dein Job bei KNAPPMANN in Essen
 Beschreibung: 100 % unverbindlich & diskret
+
+---
+
+# Zweiter Standort: Rommerskirchen (30.09.2026, Vorgabe Freddy/Jana)
+
+Kunde sucht dieselbe Stelle zusätzlich am Standort Rommerskirchen (Prio 1 laut Jana). Aufteilung: 1 Kampagne, 2 Anzeigengruppen à 10 €/Tag – „KNAPPMANN Essen +30km" und „KNAPPMANN Rommerskirchen +30km" (30 km um Grevenbroicher Str. 31, 41569 Rommerskirchen), Laufzeit wie Essen bis 25.10.2026.
+
+- Funnel: eigene Seite https://knappmann.green-careers.de/rommerskirchen/ (Kopie der Essen-Seite, Badge/Titel/Karte Rommerskirchen). Leads gehen in denselben Tab „14 KNAPPMANN"; Standort steht im Feld „stelle" („… – Standort Rommerskirchen" bzw. „… – Standort Essen"), das in der Sheet-Spalte und in der Bestätigungsmail erscheint. „quelle" bleibt die Root-URL, weil die Bestätigungsmail das Logo von quelle/logo-mail.png lädt.
+- Creatives: creatives-rommerskirchen/ – die 4 Essen-Creatives mit Ortszeile „Rommerskirchen · Grevenbroich · Neuss", Kicker „WIR SUCHEN IN ROMMERSKIRCHEN & UMGEBUNG", Creative 1 mit Karte Rommerskirchen (OSM Zoom 10, img/karte-rommerskirchen.jpg).
+- Titel bleibt „Facharbeiter GaLaBau (m/w/d)" (laut Jana dieselbe Stelle; die Portal-Anzeige Rommerskirchen heißt „Landschaftsgärtner").
+- Belege Rommerskirchen (API api/slugs/search/vollzeit-landschaftsgartner-unbefristet-in-rommerskirchen): gleiche Aufgaben wie Essen; Benefits u. a. Unbefristeter Arbeitsvertrag, Jahresprämie, Jobrad-Leasing, Vermögenswirksame Leistungen, Anhängerführerschein Kostenübernahme, Keine Montageeinsätze mit Übernachtung, Flache Hierarchien, Freundliches Arbeitsklima.
+- Umkreis-Orte (plz_geo, km zum Standort): Grevenbroich 6, Bergheim 8, Dormagen 11, Neuss 13.
+
+## Copy A (Rommerskirchen)
+Facharbeiter GaLaBau (m/w/d) in Rommerskirchen gesucht – ideal, wenn du in Grevenbroich, Neuss, Dormagen, Bergheim oder Umgebung wohnst.
+Erdbau, Wegebau, Entwässerung und Pflanzarbeiten: Bei KNAPPMANN arbeitest du an anspruchsvollen Landschaftsbau-Projekten im Rheinland – mit modernem Maschinenpark und starkem Teamgeist.
+
+Damit sind dir sicher:
+✔ Unbefristeter Arbeitsvertrag in Vollzeit
+✔ Jahresprämie, Jobrad-Leasing & vermögenswirksame Leistungen
+✔ Kostenübernahme für den Anhängerführerschein
+✔ Keine Montageeinsätze mit Übernachtung
+
+In 60 Sekunden angefragt – ohne Lebenslauf & Anschreiben.
+
+Überschrift: Unverbindliches Job-Angebot sichern
+Beschreibung: In 60 Sek. – ohne Lebenslauf
+
+## Copy B (Rommerskirchen)
+Du kannst Pflaster, Erdbau und Entwässerung – und willst dort arbeiten, wo man deine Stärken sieht?
+KNAPPMANN in Rommerskirchen sucht einen Facharbeiter GaLaBau (m/w/d). Seit 1960 gestaltet das Familienunternehmen Lebensräume – von großen Parkanlagen bis zu anspruchsvollen Tiefbauprojekten. 190 Mitarbeitende ziehen hier an einem Strang.
+
+„Wer das macht, was ihm liegt, macht es auch richtig gut.“
+
+Unbefristet, flache Hierarchien, freundliches Arbeitsklima – hol dir jetzt dein unverbindliches Job-Angebot.
+
+Überschrift: Dein Job bei KNAPPMANN in Rommerskirchen
+Beschreibung: 100 % unverbindlich & diskret
